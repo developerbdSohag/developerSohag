@@ -1,4 +1,4 @@
-<p>Hi 👋, I'm Md. Salahuddin Sohag 👋- Aspiring Full-Stack Web Developer focused on mastering HTML5, CSS3, JavaScript, TypeScript, and React.js. Currently learning strong fundamentals in frontend development, responsive UI, component-based architecture, and problem-solving, with the goal of creating scalable, modern, and user-friendly web applications.</p> <br color='red'>
+<p>Hi 👋, I'm Md. Salahuddin Sohag 👋- Aspiring Full-Stack Web Developer focused on mastering HTML5, CSS3, JavaScript, TypeScript, and React.js. Currently learning strong fundamentals in frontend development, responsive UI, component-based architecture, and problem-solving, with the goal of creating scalable, modern, and user-friendly web applications.</p> <hr>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerbdsohag&label=Profile%20views&color=0e75b6&style=flat" alt="developerbdsohag" /> </p>
